@@ -25,7 +25,7 @@ Aqui compartilho minha jornada de aprendizado, com **exercícios, projetos e des
 Meu propósito com este curso é **transformar dados em conhecimento e decisões estratégicas**.  
 Durante 5 meses, estou aprendendo a dominar **Python, SQL, Pandas, NumPy, Estatística e Machine Learning**, aplicando tudo em **projetos práticos e desafiadores**.
 
-> 💡 “Quero aprender a transformar dados em decisões inteligentes — do zero ao avançado.”
+> 💡 “Quero aprender a transformar dados em decisões inteligentes e melhorar meu portifolio.”
 
 ---
 
