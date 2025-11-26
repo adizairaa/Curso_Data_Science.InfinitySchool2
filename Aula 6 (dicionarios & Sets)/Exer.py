@@ -3,28 +3,7 @@
 # Passo a passo da implementação: Criar um dicionário vazio alunos para armazenar os dados: 1 Criar um loop infinito (while True) para cadastrar múltiplos alunos Solicitar o nome do aluno com input() e usar .strip() para remover espaços Verificar se o usuário digitou "sair" para encerrar o programa.
 #  Criar um dicionário vazio materias para as notas do aluno atual Criar outro loop infinito para cadastrar múltiplas matérias Solicitar o nome da matéria e verificar se digitou "fim" para parar Solicitar a nota da matéria e converter para float() Armazenar a matéria e nota no dicionário materias. Associar o aluno e suas matérias no dicionário principal alunos Exibir todos os alunos cadastrados usando loop for aninhado Iterar pelos alunos e suas respectivas notas para mostrar os resultados Saida esperada: --- Cadastro de Alunos --- Aluno: Mônica História: 9.0 Geografia: 7.0 Aluno: Lucas História: 5.0 Geografia: 8.0
 
-# alunos = {}
-# while True:
-#     nome = input(f"Digiteo nome do aluno:(ou Sair para sair)").lower()
-#     if nome == "sair":
-#         break
-#     materias = {}
-#     while True:
-#         materia = input(f"Digite o nome da materia:(ou Sair para sair)").lower()
-#         if materia == "sair":
-#             break
-#         while True:
-#             nota_str = input(f"Digite a nota de {nome}  para a materia {materia}").strip()
-#             if nota_str.replace(".", "", 1).isdigit():
-#                 nota = float(nota_str)
-#                 break
-#         materias [materia] = nota
-#     alunos[nome] = materias
-# print(f"-----------Cadastro de alunos-----------")   
-# for aluno , materias in alunos.items():
-#     print(f"Aluno: {aluno}")
-#     for materia, nota in materias.items():
-#         print(f"Materia: {materia}:{nota}")
+
 
 
 alunos = {}

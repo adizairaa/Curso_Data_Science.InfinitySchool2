@@ -1,4 +1,3 @@
-
 # Mostrar uma mensagem de boas-vindas com o nome e cidade. 
 # Mostrar a idade do usuário. 
 # Mostrar o valor do IMC com 2 casas decimais. 
